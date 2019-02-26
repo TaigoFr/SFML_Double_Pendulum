@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\mykef\documents\miguel frança_universidade\programing\sfml\the coding train\doublependulum\doublependulum\main.cpp(22): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  MyShape.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
